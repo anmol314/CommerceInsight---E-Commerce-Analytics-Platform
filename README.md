@@ -1,6 +1,6 @@
-# Combined E-Commerce Analytics Project
+# CommerceInsight - E-Commerce Analytics Platform
 
-A unified analytics solution combining two comprehensive Indian e-commerce datasets and analyses.
+A unified analytics solution combining two comprehensive Indian e-commerce datasets and analyses. CommerceInsight delivers actionable business intelligence through advanced customer segmentation, RFM analysis, and sales performance metrics.
 
 ## 📌 Project Overview
 
@@ -93,10 +93,10 @@ This project is ready for GitHub and demonstrates:
 - Preparation for recruitment tasks (e.g., Retail Analytics Challenge)
 - Eligibility for top North Indian companies (Paytm, Zomato, Flipkart)
 
-## 📁 Project Structure
+## 📁 CommerceInsight Project Structure
 
 ```
-Combined-Ecommerce-Analytics/
+CommerceInsight/
 ├── data/                    # All CSV data files
 ├── notebooks/               # Jupyter notebooks
 ├── scripts/                 # Python analysis scripts
