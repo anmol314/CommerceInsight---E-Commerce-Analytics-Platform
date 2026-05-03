@@ -1,0 +1,20 @@
+Metric,Value,Source
+Total Customers,99441,Project 1: Marketing Analytics
+Unique States,20,Project 1: Marketing Analytics
+Top State,Andhra Pradesh,Project 1: Marketing Analytics
+Total Products,32951,Project 1: Marketing Analytics
+Unique Categories,71,Project 1: Marketing Analytics
+Total Payments,103886,Project 1: Marketing Analytics
+Avg Payment Value,154.10038041699556,Project 1: Marketing Analytics
+Top Payment Type,credit_card,Project 1: Marketing Analytics
+Total Reviews,100000,Project 1: Marketing Analytics
+Avg Rating,4.07089,Project 1: Marketing Analytics
+Total Sellers,3095,Project 1: Marketing Analytics
+Seller Unique States,19,Project 1: Marketing Analytics
+Months Of Data,12,Project 2: Sales Analysis
+Total Sales Value,431502.0,Project 2: Sales Analysis
+Total Orders,1500,Project 2: Sales Analysis
+Total Revenue,431502.0,Project 2: Sales Analysis
+Avg Order Value,287.668,Project 2: Sales Analysis
+Total List Orders,560,Project 2: Sales Analysis
+Merged Orders Count,1500,Project 2: Sales Analysis

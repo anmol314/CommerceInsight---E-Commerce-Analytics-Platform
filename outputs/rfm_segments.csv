@@ -1,0 +1,333 @@
+CustomerName,Recency,Frequency,Monetary,R_Score,F_Score,M_Score,RFM_Segment,RFM_Score,Segment
+Aakanksha,274,2,74.0,1,2,1,121,4,Lost
+Aarushi,10,12,4701.0,5,5,5,555,15,Champions
+Aashna,118,7,1931.0,3,4,4,344,11,Loyal
+Aastha,157,6,3276.0,2,4,5,245,11,Loyal
+Aayush,137,6,556.0,3,4,3,343,10,Need Attention
+Aayushi,64,5,689.0,4,3,3,433,10,Need Attention
+Abhijeet,142,14,5691.0,3,5,5,355,13,Champions
+Abhijit,111,1,78.0,3,1,1,311,5,Lost
+Abhishek,115,25,8135.0,3,5,5,355,13,Champions
+Adhvaita,268,1,193.0,1,1,2,112,4,Lost
+Aditi,118,6,1521.0,3,4,4,344,11,Loyal
+Aditya,21,6,703.0,5,4,3,543,12,Loyal
+Aishwarya,114,4,939.0,3,3,3,333,9,Need Attention
+Ajay,24,11,1922.0,5,5,4,554,14,Champions
+Akancha,289,3,806.0,1,3,3,133,7,At Risk
+Akanksha,308,1,27.0,1,1,1,111,3,Lost
+Akash,249,1,131.0,1,1,1,111,3,Lost
+Akshat,244,1,31.0,1,1,1,111,3,Lost
+Akshata,96,1,52.0,3,1,1,311,5,Lost
+Akshay,137,12,1367.0,3,5,4,354,12,Loyal
+Aman,117,12,1540.0,3,5,4,354,12,Loyal
+Ameesha,253,3,2148.0,1,3,5,135,9,Need Attention
+Amisha,282,6,909.0,1,4,3,143,8,At Risk
+Amit,31,8,1934.0,5,5,4,554,14,Champions
+Amlan,112,8,1210.0,3,5,4,354,12,Loyal
+Amol,137,3,2262.0,3,3,5,335,11,Loyal
+Amruta,63,6,1318.0,4,4,4,444,12,Loyal
+Anand,113,6,1514.0,3,4,4,344,11,Loyal
+Ananya,154,1,16.0,2,1,1,211,4,Lost
+Anchal,259,3,369.0,1,3,2,132,6,Lost
+Aniket,149,2,907.0,2,2,3,223,7,At Risk
+Anisha,255,3,193.0,1,3,2,132,6,Lost
+Anita,7,5,561.0,5,4,3,543,12,Loyal
+Anjali,59,12,3537.0,4,5,5,455,14,Champions
+Ankit,86,5,1647.0,4,4,4,444,12,Loyal
+Ankita,16,4,280.0,5,3,2,532,10,Need Attention
+Ankur,83,2,1063.0,4,2,3,423,9,Need Attention
+Anmol,56,1,50.0,4,1,1,411,6,Lost
+Anubhaw,248,1,16.0,1,1,1,111,3,Lost
+Anudeep,218,3,1441.0,2,3,4,234,9,Need Attention
+Anurag,18,16,4259.0,5,5,5,555,15,Champions
+Aparajita,73,2,465.0,4,2,3,423,9,Need Attention
+Apoorv,128,1,108.0,3,1,1,311,5,Lost
+Apoorva,158,1,345.0,2,1,2,212,5,Lost
+Apsingekar,175,4,478.0,2,3,3,233,8,At Risk
+Arindam,245,3,34.0,1,3,1,131,5,Lost
+Aromal,137,4,166.0,3,3,2,332,8,At Risk
+Arpita,51,1,1301.0,5,1,4,514,10,Need Attention
+Arsheen,308,5,285.0,1,4,2,142,7,At Risk
+Arti,154,1,1298.0,2,1,4,214,7,At Risk
+Arun,137,1,85.0,3,1,1,311,5,Lost
+Aryan,182,4,149.0,2,3,2,232,7,At Risk
+Ashmeet,213,5,459.0,2,4,3,243,9,Need Attention
+Ashmi,28,2,172.0,5,2,2,522,9,Need Attention
+Ashvini,151,1,22.0,2,1,1,211,4,Lost
+Ashwin,241,1,11.0,1,1,1,111,3,Lost
+Asish,193,4,965.0,2,3,3,233,8,At Risk
+Atharv,4,13,2584.0,5,5,5,555,15,Champions
+Atul,61,5,1034.0,4,4,3,443,11,Loyal
+Avish,189,3,993.0,2,3,3,233,8,At Risk
+Avni,301,1,76.0,1,1,1,111,3,Lost
+Ayush,198,9,3269.0,2,5,5,255,12,Loyal
+Bathina,302,4,425.0,1,3,2,132,6,Lost
+Bhaggyasree,291,3,715.0,1,3,3,133,7,At Risk
+Bharat,11,6,1579.0,5,4,4,544,13,Champions
+Bhargav,111,1,152.0,3,1,2,312,6,Lost
+Bhavna,6,5,307.0,5,4,2,542,11,Loyal
+Bhawna,301,6,3599.0,1,4,5,145,10,Need Attention
+Bhishm,2,7,4907.0,5,4,5,545,14,Champions
+Bhosale,128,1,282.0,3,1,2,312,6,Lost
+Bhutekar,87,1,71.0,4,1,1,411,6,Lost
+Brijesh,124,4,761.0,3,3,3,333,9,Need Attention
+Chandni,304,5,2390.0,1,4,5,145,10,Need Attention
+Charika,311,4,768.0,1,3,3,133,7,At Risk
+Chayanika,315,1,166.0,1,1,2,112,4,Lost
+Chetan,78,2,497.0,4,2,3,423,9,Need Attention
+Chikku,138,1,724.0,3,1,3,313,7,At Risk
+Chirag,19,10,3192.0,5,5,5,555,15,Champions
+Daksh,241,1,133.0,1,1,1,111,3,Lost
+Dashyam,128,3,1430.0,3,3,4,334,10,Need Attention
+Deepak,5,5,1013.0,5,4,3,543,12,Loyal
+Devendra,236,1,373.0,1,1,2,112,4,Lost
+Dhanraj,177,1,632.0,2,1,3,213,6,Lost
+Dheeraj,167,1,119.0,2,1,1,211,4,Lost
+Dhirajendu,247,3,96.0,1,3,1,131,5,Lost
+Dinesh,192,1,12.0,2,1,1,211,4,Lost
+Dipali,92,1,57.0,3,1,1,311,5,Lost
+Divsha,10,5,968.0,5,4,3,543,12,Loyal
+Divyansh,182,4,367.0,2,3,2,232,7,At Risk
+Divyansha,118,1,465.0,3,1,3,313,7,At Risk
+Divyeshkumar,128,1,248.0,3,1,2,312,6,Lost
+Divyeta,129,5,1757.0,3,4,4,344,11,Loyal
+Diwakar,55,11,2342.0,4,5,5,455,14,Champions
+Duhita,205,1,50.0,2,1,1,211,4,Lost
+Ekta,277,9,694.0,1,5,3,153,9,Need Attention
+Farah,17,10,4675.0,5,5,5,555,15,Champions
+Gaurav,57,10,3349.0,4,5,5,455,14,Champions
+Geetanjali,105,1,103.0,3,1,1,311,5,Lost
+Ginny,60,4,381.0,4,3,2,432,9,Need Attention
+Girase,89,3,1678.0,3,3,4,334,10,Need Attention
+Gunjal,131,1,118.0,3,1,1,311,5,Lost
+Gunjan,290,1,31.0,1,1,1,111,3,Lost
+Harsh,52,7,1593.0,4,4,4,444,12,Loyal
+Harshal,57,7,6026.0,4,4,5,445,13,Champions
+Harshita,155,1,504.0,2,1,3,213,6,Lost
+Hazel,10,6,944.0,5,4,3,543,12,Loyal
+Hemangi,62,1,13.0,4,1,1,411,6,Lost
+Hemant,35,2,1643.0,5,2,4,524,11,Loyal
+Hitesh,52,8,3548.0,4,5,5,455,14,Champions
+Hitika,1,5,1160.0,5,4,4,544,13,Champions
+Hrisheekesh,173,1,911.0,2,1,3,213,6,Lost
+Inderpreet,258,1,48.0,1,1,1,111,3,Lost
+Ishit,182,3,188.0,2,3,2,232,7,At Risk
+Ishpreet,112,5,3003.0,3,4,5,345,12,Loyal
+Jahan,11,14,2807.0,5,5,5,555,15,Champions
+Jaideep,84,1,177.0,4,1,2,412,7,At Risk
+Jay,108,6,3574.0,3,4,5,345,12,Loyal
+Jayanti,98,1,100.0,3,1,1,311,5,Lost
+Jaydeep,111,1,30.0,3,1,1,311,5,Lost
+Jesal,78,10,1782.0,4,5,4,454,13,Champions
+Jesslyn,68,1,115.0,4,1,1,411,6,Lost
+Jitesh,9,4,1190.0,5,3,4,534,12,Loyal
+K,148,1,336.0,3,1,2,312,6,Lost
+Kajal,61,3,889.0,4,3,3,433,10,Need Attention
+Kalyani,51,4,295.0,5,3,2,532,10,Need Attention
+Kanak,6,9,699.0,5,5,3,553,13,Champions
+Karandeep,100,1,244.0,3,1,2,312,6,Lost
+Kartik,162,7,2308.0,2,4,5,245,11,Loyal
+Kartikay,49,6,890.0,5,4,3,543,12,Loyal
+Kasheen,10,6,958.0,5,4,3,543,12,Loyal
+Kiran,254,1,490.0,1,1,3,113,5,Lost
+Kirti,23,14,3216.0,5,5,5,555,15,Champions
+Kishwar,274,4,1013.0,1,3,3,133,7,At Risk
+Komal,50,6,896.0,5,4,3,543,12,Loyal
+Krishna,154,3,145.0,2,3,1,231,6,Lost
+Kritika,281,4,124.0,1,3,1,131,5,Lost
+Krutika,77,10,3112.0,4,5,5,455,14,Champions
+Kshitij,173,1,259.0,2,1,2,212,5,Lost
+Kushal,146,10,1383.0,3,5,4,354,12,Loyal
+Lisha,27,2,1729.0,5,2,4,524,11,Loyal
+Madhulika,253,1,1549.0,1,1,4,114,6,Lost
+Mahima,73,5,2030.0,4,4,5,445,13,Champions
+Maithilee,279,4,174.0,1,3,2,132,6,Lost
+Mane,171,1,391.0,2,1,2,212,5,Lost
+Manibalan,137,1,189.0,3,1,2,312,6,Lost
+Manish,32,2,55.0,5,2,1,521,8,At Risk
+Manisha,66,1,662.0,4,1,3,413,8,At Risk
+Manjiri,60,2,387.0,4,2,2,422,8,At Risk
+Manju,5,8,2084.0,5,5,5,555,15,Champions
+Manshul,263,4,844.0,1,3,3,133,7,At Risk
+Mansi,57,3,291.0,4,3,2,432,9,Need Attention
+Masurkar,126,1,121.0,3,1,1,311,5,Lost
+Mayank,22,9,1629.0,5,5,4,554,14,Champions
+Megha,128,7,1057.0,3,4,3,343,10,Need Attention
+Meghana,215,1,139.0,2,1,1,211,4,Lost
+Mhatre,80,4,1133.0,4,3,4,434,11,Loyal
+Mitali,69,2,1076.0,4,2,3,423,9,Need Attention
+Mohan,224,5,2070.0,1,4,5,145,10,Need Attention
+Mohit,223,11,3912.0,1,5,5,155,11,Loyal
+Monica,88,6,1397.0,3,4,4,344,11,Loyal
+Monisha,4,3,587.0,5,3,3,533,11,Loyal
+Monu,118,1,1246.0,3,1,4,314,8,At Risk
+Moumita,154,3,234.0,2,3,2,232,7,At Risk
+Mousam,204,1,47.0,2,1,1,211,4,Lost
+Mrinal,128,6,1895.0,3,4,4,344,11,Loyal
+Mrunal,149,5,582.0,2,4,3,243,9,Need Attention
+Mugdha,58,1,71.0,4,1,1,411,6,Lost
+Mukesh,6,8,3704.0,5,5,5,555,15,Champions
+Mukund,78,1,152.0,4,1,2,412,7,At Risk
+Muskan,73,8,2268.0,4,5,5,455,14,Champions
+Namrata,260,1,30.0,1,1,1,111,3,Lost
+Nandita,52,2,309.0,4,2,2,422,8,At Risk
+Navdeep,241,1,482.0,1,1,3,113,5,Lost
+Neha,99,5,3350.0,3,4,5,345,12,Loyal
+Nida,16,10,1201.0,5,5,4,554,14,Champions
+Nidhi,29,7,1329.0,5,4,4,544,13,Champions
+Nikhil,86,1,61.0,4,1,1,411,6,Lost
+Nikita,159,4,902.0,2,3,3,233,8,At Risk
+Nirja,60,1,79.0,4,1,1,411,6,Lost
+Nishant,230,10,1136.0,1,5,4,154,10,Need Attention
+Nishi,28,2,669.0,5,2,3,523,10,Need Attention
+Nitant,232,4,420.0,1,3,2,132,6,Lost
+Noopur,284,6,1607.0,1,4,4,144,9,Need Attention
+Noshiba,217,1,58.0,2,1,1,211,4,Lost
+Nripraj,173,6,1619.0,2,4,4,244,10,Need Attention
+Omkar,57,1,196.0,4,1,2,412,7,At Risk
+Oshin,71,4,1904.0,4,3,4,434,11,Loyal
+Palak,154,1,263.0,2,1,2,212,5,Lost
+Parakh,133,1,86.0,3,1,1,311,5,Lost
+Paridhi,26,12,2466.0,5,5,5,555,15,Champions
+Parin,64,2,1404.0,4,2,4,424,10,Need Attention
+Parishi,25,11,4741.0,5,5,5,555,15,Champions
+Parna,287,7,975.0,1,4,3,143,8,At Risk
+Parnavi,52,1,87.0,4,1,1,411,6,Lost
+Paromita,70,1,811.0,4,1,3,413,8,At Risk
+Parth,28,8,5161.0,5,5,5,555,15,Champions
+Patil,53,4,220.0,4,3,2,432,9,Need Attention
+Pearl,11,7,3944.0,5,4,5,545,14,Champions
+Phalguni,107,1,40.0,3,1,1,311,5,Lost
+Pinky,3,12,3160.0,5,5,5,555,15,Champions
+Piyali,311,1,610.0,1,2,3,123,6,Lost
+Piyam,66,1,193.0,4,2,2,422,8,At Risk
+Pooja,36,17,9030.0,5,5,5,555,15,Champions
+Pournamasi,11,6,2286.0,5,4,5,545,14,Champions
+Pradeep,110,1,179.0,3,2,2,322,7,At Risk
+Prajakta,94,1,148.0,3,2,2,322,7,At Risk
+Pranav,132,5,1493.0,3,4,4,344,11,Loyal
+Praneet,170,1,743.0,2,2,3,223,7,At Risk
+Pranjali,153,1,1250.0,2,2,4,224,8,At Risk
+Prashant,56,7,994.0,4,4,3,443,11,Loyal
+Pratiksha,72,1,53.0,4,2,1,421,7,At Risk
+Pratyusmita,316,4,1570.0,1,3,4,134,8,At Risk
+Preksha,106,1,102.0,3,2,1,321,6,Lost
+Priyanka,16,21,5762.0,5,5,5,555,15,Champions
+Priyanshu,230,9,1213.0,1,5,4,154,10,Need Attention
+Rachna,20,2,47.0,5,2,1,521,8,At Risk
+Rahul,87,1,105.0,4,2,1,421,7,At Risk
+Raksha,267,1,158.0,1,2,2,122,5,Lost
+Ramesh,5,3,471.0,5,3,3,533,11,Loyal
+Rane,241,3,105.0,1,3,1,131,5,Lost
+Rashmi,263,2,170.0,1,2,2,122,5,Lost
+Rhea,69,5,1544.0,4,4,4,444,12,Loyal
+Rishabh,253,6,2002.0,1,4,4,144,9,Need Attention
+Ritu,33,2,265.0,5,2,2,522,9,Need Attention
+Riya,276,2,228.0,1,2,2,122,5,Lost
+Rohan,116,14,4901.0,3,5,5,355,13,Champions
+Rohit,198,1,15.0,2,2,1,221,5,Lost
+Rutuja,199,6,1511.0,2,4,4,244,10,Need Attention
+Sabah,326,8,1384.0,1,5,4,154,10,Need Attention
+Sagar,5,3,439.0,5,3,3,533,11,Loyal
+Sahil,34,9,1490.0,5,5,4,554,14,Champions
+Sajal,190,1,42.0,2,2,1,221,5,Lost
+Sakshi,211,5,1171.0,2,4,4,244,10,Need Attention
+Saloni,70,1,17.0,4,2,1,421,7,At Risk
+Samiksha,296,1,134.0,1,2,1,121,4,Lost
+Sandeep,169,5,265.0,2,4,2,242,8,At Risk
+Sandra,97,3,325.0,3,3,2,332,8,At Risk
+Sanjana,154,5,2450.0,2,4,5,245,11,Loyal
+Sanjay,30,3,517.0,5,3,3,533,11,Loyal
+Sanjna,294,5,826.0,1,4,3,143,8,At Risk
+Sanjova,216,4,934.0,2,3,3,233,8,At Risk
+Sanskriti,15,2,203.0,5,2,2,522,9,Need Attention
+Saptadeep,125,5,404.0,3,4,2,342,9,Need Attention
+Sarita,5,14,5449.0,5,5,5,555,15,Champions
+Sathya,118,1,388.0,3,2,2,322,7,At Risk
+Sauptik,183,6,3287.0,2,4,5,245,11,Loyal
+Saurabh,79,2,203.0,4,2,2,422,8,At Risk
+Savi,201,1,1361.0,2,2,4,224,8,At Risk
+Seema,67,5,5228.0,4,4,5,445,13,Champions
+Shaily,278,5,1777.0,1,4,4,144,9,Need Attention
+Shantanu,78,3,315.0,4,3,2,432,9,Need Attention
+Sharda,22,5,1715.0,5,4,4,544,13,Champions
+Shardul,82,5,1907.0,4,4,4,444,12,Loyal
+Shatayu,124,4,1571.0,3,3,4,334,10,Need Attention
+Sheetal,150,7,2756.0,2,4,5,245,11,Loyal
+Shefali,16,2,220.0,5,2,2,522,9,Need Attention
+Shikhar,86,5,820.0,4,4,3,443,11,Loyal
+Shishu,182,6,3803.0,2,4,5,245,11,Loyal
+Shivam,227,10,1587.0,1,5,4,154,10,Need Attention
+Shivangi,64,10,1130.0,4,5,4,454,13,Champions
+Shivani,118,4,251.0,3,3,2,332,8,At Risk
+Shivanshu,178,8,3266.0,2,5,5,255,12,Loyal
+Shourya,225,9,3205.0,1,5,5,155,11,Loyal
+Shreya,73,18,3952.0,4,5,5,455,14,Champions
+Shreyoshe,212,1,1582.0,2,2,4,224,8,At Risk
+Shreyshi,70,3,3343.0,4,3,5,435,12,Loyal
+Shrichand,6,6,3828.0,5,4,5,545,14,Champions
+Shruti,14,17,5750.0,5,5,5,555,15,Champions
+Shubham,51,14,3387.0,5,5,5,555,15,Champions
+Shubhi,280,3,180.0,1,3,2,132,6,Lost
+Shweta,60,6,2293.0,4,4,5,445,13,Champions
+Shyam,163,1,101.0,2,2,1,221,5,Lost
+Siddharth,128,8,1921.0,3,5,4,354,12,Loyal
+Sidharth,87,1,73.0,4,2,1,421,7,At Risk
+Smriti,90,2,147.0,3,2,2,322,7,At Risk
+Sneha,152,3,806.0,2,3,3,233,8,At Risk
+Snehal,206,1,38.0,2,2,1,221,5,Lost
+Snel,149,4,1245.0,2,3,4,234,9,Need Attention
+Sonakshi,10,3,237.0,5,3,2,532,10,Need Attention
+Sonal,22,13,1790.0,5,5,4,554,14,Champions
+Soodesh,149,1,94.0,2,2,1,221,5,Lost
+Soumya,70,11,6869.0,4,5,5,455,14,Champions
+Soumyabrata,145,7,1510.0,3,5,4,354,12,Loyal
+Srishti,265,1,416.0,1,2,2,122,5,Lost
+Stuti,266,2,351.0,1,2,2,122,5,Lost
+Subhashree,13,7,529.0,5,5,3,553,13,Champions
+Subhasmita,287,1,167.0,1,2,2,122,5,Lost
+Sudheer,178,2,477.0,2,2,3,223,7,At Risk
+Sudhir,87,3,1969.0,4,3,4,434,11,Loyal
+Suhani,287,1,171.0,1,2,2,122,5,Lost
+Sujay,109,5,2233.0,3,4,5,345,12,Loyal
+Sukant,189,1,276.0,2,2,2,222,6,Lost
+Sukrith,189,7,1721.0,2,5,4,254,11,Loyal
+Sukruta,103,1,277.0,3,2,2,322,7,At Risk
+Suman,174,2,207.0,2,2,2,222,6,Lost
+Sumeet,124,1,24.0,3,2,1,321,6,Lost
+Surabhi,202,12,6889.0,2,5,5,255,12,Loyal
+Suraj,112,4,468.0,3,3,3,333,9,Need Attention
+Surbhi,73,7,1309.0,4,5,4,454,13,Champions
+Swapnil,112,13,4929.0,3,5,5,355,13,Champions
+Swati,149,1,86.0,2,2,1,221,5,Lost
+Sweta,12,4,808.0,5,3,3,533,11,Loyal
+Swetha,294,1,352.0,1,2,2,122,5,Lost
+Swetlana,274,1,31.0,1,2,1,121,4,Lost
+Syed,81,1,169.0,4,2,2,422,8,At Risk
+Tanushree,161,1,637.0,2,2,3,223,7,At Risk
+Tanvi,314,1,934.0,1,2,3,123,6,Lost
+Teena,200,1,137.0,2,2,1,221,5,Lost
+Tejas,165,1,34.0,2,2,1,221,5,Lost
+Tejeswini,72,3,1116.0,4,3,3,433,10,Need Attention
+Trupti,77,8,2017.0,4,5,5,455,14,Champions
+Tulika,16,9,4668.0,5,5,5,555,15,Champions
+Turumella,253,2,384.0,1,2,2,122,5,Lost
+Tushina,17,10,600.0,5,5,3,553,13,Champions
+Utkarsh,102,1,80.0,3,2,1,321,6,Lost
+Utsav,173,1,126.0,2,2,1,221,5,Lost
+Vaibhav,230,7,3065.0,1,5,5,155,11,Loyal
+Vaibhavi,211,1,148.0,2,2,2,222,6,Lost
+Vandana,6,8,1456.0,5,5,4,554,14,Champions
+Vedant,121,2,2208.0,3,3,5,335,11,Loyal
+Vijay,283,7,1995.0,1,5,4,154,10,Need Attention
+Vikash,134,3,1350.0,3,3,4,334,10,Need Attention
+Vineet,86,3,666.0,4,3,3,433,10,Need Attention
+Vini,4,9,2139.0,5,5,5,555,15,Champions
+Vipul,176,1,16.0,2,2,1,221,5,Lost
+Vishakha,95,4,4836.0,3,3,5,335,11,Loyal
+Vivek,85,3,114.0,4,3,1,431,8,At Risk
+Wale,257,4,130.0,1,3,1,131,5,Lost
+Yaanvi,22,13,9177.0,5,5,5,555,15,Champions
+Yash,178,5,791.0,2,4,3,243,9,Need Attention
+Yogesh,8,16,5421.0,5,5,5,555,15,Champions
+Yohann,56,1,1314.0,4,2,4,424,10,Need Attention

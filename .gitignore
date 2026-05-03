@@ -1,0 +1,62 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+*.log
+logs/
+
+# OS
+Thumbs.db
+
+# Virtual environments
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Environment variables
+.env
+.env.local
+
+# Large output files (regenerate from scripts)
+outputs/plots/
+outputs/*.png
+outputs/*.pdf
+
+# CSV outputs (can be regenerated)
+outputs/merged_orders_summary.csv
+outputs/category_sales.csv
+outputs/category_profitability.csv
+outputs/monthly_profit_trend.csv
+outputs/monthly_sales_analysis.csv
+outputs/monthly_trends.csv
+outputs/state_sales.csv
+outputs/state_orders_combined.csv
+outputs/state_profitability.csv
+outputs/top_customers.csv
+
+# Cache files
+.cache/
+*.cache
