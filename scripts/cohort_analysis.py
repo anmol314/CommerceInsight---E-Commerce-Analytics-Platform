@@ -18,7 +18,14 @@ def cohort_analysis(orders_path, output_path):
     cohort_pivot.to_csv(os.path.join(output_path, 'cohort_table.csv'))
     print('✓ Saved: cohort_table.csv')
     # Optional: Visualize retention
-    fig = px.imshow(cohort_pivot, text_auto=True, aspect='auto', title='Cohort Retention Table')
+    # convert Period index/columns to string for compatibility with image engines
+    display_pivot = cohort_pivot.copy()
+    try:
+        display_pivot.index = display_pivot.index.astype(str)
+        display_pivot.columns = display_pivot.columns.astype(str)
+    except Exception:
+        pass
+    fig = px.imshow(display_pivot, text_auto=True, aspect='auto', title='Cohort Retention Table')
     fig.write_image(os.path.join(output_path, 'cohort_retention.png'))
     print('✓ Saved: cohort_retention.png')
 

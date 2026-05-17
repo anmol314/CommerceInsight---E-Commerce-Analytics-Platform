@@ -1,0 +1,5 @@
+scenario,horizon_30_roi,horizon_60_roi,gmv_30
+Base,3.36,3.36,112000.0
+Conservative,3.024,3.024,60480.0
+Optimistic,3.696,3.696,197120.00000000006
+No Incentive,3.36,3.36,22400.000000000004
