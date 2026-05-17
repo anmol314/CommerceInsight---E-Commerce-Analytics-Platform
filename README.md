@@ -31,6 +31,7 @@ This combined project merges insights from two major e-commerce analytics initia
 ## 🛠️ Tools & Technologies
 
 - **Python** (Pandas, NumPy, Matplotlib, Seaborn, Plotly)
+- **Streamlit** (interactive dashboard artifact)
 - **SQL** (MySQL for analytics)
 - **Power BI** (Dashboards & KPIs)
 - **Jupyter Notebook**
@@ -66,18 +67,27 @@ This project is upgraded for Junior Data Analyst roles in North India’s 2026 t
 
 1. Install dependencies:
    ```bash
-   pip install pandas numpy matplotlib seaborn plotly
+   pip install -r requirements.txt
    ```
 2. Run the main analysis script:
    ```bash
    python run_analysis.py
    ```
-3. For RFM and cohort analysis:
+3. Build the cleaned data pipeline and outputs:
+   ```bash
+   python scripts/data_pipeline.py
+   ```
+4. Launch the interactive dashboard artifact:
+   ```bash
+   python -m streamlit run scripts/streamlit_dashboard.py
+   ```
+5. For RFM and cohort analysis:
    ```bash
    python scripts/rfm_analysis.py
    python scripts/cohort_analysis.py
    ```
-4. Open the notebook `notebooks/RFM_and_Sales_Analysis_Portfolio.ipynb` for interactive dashboards and advanced analytics.
+6. Open the notebook `notebooks/RFM_and_Sales_Analysis_Portfolio.ipynb` for additional interactive analytics.
+7. Review the project narrative and recruiter-facing story in `portfolio_blueprint.html`.
 
 ### Business KPIs & Impact
 - Customer retention improvement: **~12%**

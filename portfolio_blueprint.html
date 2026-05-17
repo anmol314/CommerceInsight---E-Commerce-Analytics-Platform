@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CommerceInsight Portfolio Blueprint</title>
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 24px; color: #222; }
+        h1, h2, h3 { color: #1f4e79; }
+        .section { margin-bottom: 24px; }
+        .pill { display: inline-block; background: #e7f1fb; color: #0d3b66; padding: 6px 12px; margin: 4px 4px 4px 0; border-radius: 12px; font-size: 0.95rem; }
+        .note { background: #fff6d1; border-left: 4px solid #f4c542; padding: 12px; margin: 16px 0; }
+    </style>
+</head>
+<body>
+    <h1>CommerceInsight Portfolio Blueprint</h1>
+    <p>This artifact explains the upgraded project scope, business value, and technical architecture for a Junior Data Analyst portfolio piece targeting the 2026 North India job market.</p>
+
+    <div class="section">
+        <h2>Problem Statement</h2>
+        <p>Retail leaders in North India need a dashboard that turns transaction CSVs into fast, region-specific decisions. This project demonstrates the ability to identify top-performing products, track weekly KPIs, and investigate regional anomalies like a sales drop in Punjab.</p>
+    </div>
+
+    <div class="section">
+        <h2>What was built</h2>
+        <div class="pill">Interactive KPI dashboard</div>
+        <div class="pill">North India regional analytics</div>
+        <div class="pill">Punjab anomaly drill-down</div>
+        <div class="pill">SQL analytics views</div>
+        <div class="pill">Python ETL pipeline</div>
+        <div class="pill">Portfolio-friendly documentation</div>
+    </div>
+
+    <div class="section">
+        <h2>Architecture</h2>
+        <ol>
+            <li><strong>Data ingestion</strong>: Raw CSVs are loaded from <code>data/</code>.</li>
+            <li><strong>Preprocessing</strong>: Cleaned transaction records and engineered time features in <code>scripts/data_pipeline.py</code>.</li>
+            <li><strong>Analytics</strong>: SQL views in <code>sql/queries.sql</code> expose KPIs, North India trends, and Punjab weekly patterns.</li>
+            <li><strong>Visualization</strong>: <code>scripts/streamlit_dashboard.py</code> renders an interactive dashboard with filters, charts, and anomaly alerts.</li>
+        </ol>
+    </div>
+
+    <div class="section">
+        <h2>Key recruiter messaging</h2>
+        <ul>
+            <li>Demonstrated ability to support a take-home dashboard exercise using CSV inputs and Python.</li>
+            <li>Focused on North India and Punjab, matching regional hiring expectations for the role.</li>
+            <li>Delivered both static analytics outputs and an interactive dashboard artifact.</li>
+            <li>Built a pipeline that can be extended with real-time or AI-powered dashboard features.</li>
+        </ul>
+    </div>
+
+    <div class="section note">
+        <strong>Note:</strong> Use <code>python -m streamlit run scripts/streamlit_dashboard.py</code> to demonstrate the interactive dashboard to hiring managers, and open this HTML document when discussing the project story in interviews.
+    </div>
+</body>
+</html>

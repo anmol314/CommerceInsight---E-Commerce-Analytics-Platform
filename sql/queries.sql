@@ -58,4 +58,36 @@ FROM orders_cleaned
 GROUP BY Category, SubCategory
 ORDER BY TotalProfit DESC;
 
+CREATE OR REPLACE VIEW vw_north_india_sales AS
+SELECT
+    State,
+    SUM(Amount) AS TotalRevenue,
+    SUM(Profit) AS TotalProfit
+FROM orders_cleaned
+WHERE State IN ('Delhi','Haryana','Punjab','Uttar Pradesh','Uttarakhand','Himachal Pradesh','Jammu & Kashmir','Chandigarh')
+GROUP BY State
+ORDER BY TotalRevenue DESC;
+
+CREATE OR REPLACE VIEW vw_punjab_weekly_sales AS
+SELECT
+    YEAR(OrderDate) AS Year,
+    WEEK(OrderDate, 3) AS WeekOfYear,
+    MIN(OrderDate) AS WeekStart,
+    SUM(Amount) AS WeeklyRevenue,
+    SUM(Profit) AS WeeklyProfit
+FROM orders_cleaned
+WHERE State = 'Punjab'
+GROUP BY YEAR(OrderDate), WEEK(OrderDate, 3)
+ORDER BY Year, WeekOfYear;
+
+CREATE OR REPLACE VIEW vw_top_product_categories AS
+SELECT
+    Category,
+    SUM(Amount) AS TotalRevenue,
+    SUM(Profit) AS TotalProfit
+FROM orders_cleaned
+GROUP BY Category
+ORDER BY TotalRevenue DESC
+LIMIT 10;
+
 

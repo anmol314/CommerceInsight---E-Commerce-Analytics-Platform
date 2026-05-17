@@ -11,8 +11,8 @@ import seaborn as sns
 import os
 from datetime import datetime
 
-# Set paths
-BASE_PATH = r"c:\Users\admin\OneDrive\Desktop\ecom\Combined-Ecommerce-Analytics"
+# Set paths relative to the repository root
+BASE_PATH = os.path.abspath(os.path.dirname(__file__))
 DATA_PATH = os.path.join(BASE_PATH, "data")
 OUTPUT_PATH = os.path.join(BASE_PATH, "outputs")
 
