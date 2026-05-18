@@ -4,7 +4,6 @@ Win-back ROI deterministic model and Monte Carlo simulation.
 Saves: winback_results.csv, winback_mc_summary.csv, winback_scenarios.csv
 """
 import argparse
-import json
 from pathlib import Path
 import numpy as np
 import pandas as pd
