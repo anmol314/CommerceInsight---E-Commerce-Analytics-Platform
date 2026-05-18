@@ -12,8 +12,6 @@ CLI preprocessing pipeline for CommerceInsight.
 import argparse
 from pathlib import Path
 import re
-import json
-import sys
 
 import pandas as pd
 import numpy as np
@@ -28,11 +26,11 @@ FESTIVAL_WINDOWS = {
 
 CITY_CANONICAL = {
     # small example map - extend to ~50 entries in production
-    r'^(?i)ludhiana.*': 'Ludhiana',
-    r'^(?i)amritsar.*': 'Amritsar',
-    r'^(?i)patiala.*': 'Patiala',
-    r'^(?i)jalandhar.*': 'Jalandhar',
-    r'^(?i)bathinda.*': 'Bathinda'
+    r'^ludhiana.*': 'Ludhiana',
+    r'^amritsar.*': 'Amritsar',
+    r'^patiala.*': 'Patiala',
+    r'^jalandhar.*': 'Jalandhar',
+    r'^bathinda.*': 'Bathinda'
 }
 
 
@@ -41,7 +39,7 @@ def normalise_city(name: str) -> str:
         return name
     name = str(name).strip()
     for pat, canon in CITY_CANONICAL.items():
-        if re.match(pat, name):
+        if re.match(pat, name, flags=re.IGNORECASE):
             return canon
     # fallback: title case
     return name.title()
